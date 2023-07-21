@@ -1,0 +1,6 @@
+.post_edit button{
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid rgb(216, 213, 213);
+  width: 60px;
+}
